@@ -1,0 +1,47 @@
+body {
+    background-image: url("./images/istockphoto-1146511178-170667a.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+h1 {
+    display: inline-block;
+    width: 200px;
+    background-color: rgba(47, 47, 76, 0.805);
+    color: white;
+    margin-top: 3%;
+    padding: 8px 8px;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+h1:hover {
+    cursor: pointer;
+}
+
+.head {
+    margin-top: 8%;
+}
+
+
+button {
+    background-color: rgba(51, 51, 94, 0.848);
+    color: rgb(17, 17, 17);
+    margin-top: 3%;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 27px;
+    font-family: sans-serif;
+    border: 0px solid grey;
+    border-radius: 3px;
+    margin-left: 10px;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: rgb(116, 116, 136);
+    color: white;
+}
